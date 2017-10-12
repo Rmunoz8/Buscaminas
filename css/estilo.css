@@ -103,9 +103,6 @@ nav.menu > ul > li > a:hover{
 nav#dificultad{
     background-color: #322B2B;
     height: 150px;
-/*    width: 50%;*/
-/*    display: flex;*/
-
 }
 
 nav#dificultad > ul > li > a{
@@ -154,5 +151,25 @@ h1{
     font-size: 500%;
     color: #0FB549;
 }
+
+/*---------------------------------------Reglas-----------------------------------------------*/
+
+section#reglas{
+    text-align: center;
+    width: 90%;
+    height: auto;
+}
+section#reglas > p{
+    text-align: justify;
+    font-size: 150%;
+    color: #0FB549;
+}
+section#reglas > h2{
+    font-size: 300%;
+    color: #0FB549;
+    margin-bottom: 10%;
+}
+
+
 
 
